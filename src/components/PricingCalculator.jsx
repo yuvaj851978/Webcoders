@@ -46,8 +46,8 @@ const SERVICES_DATA = [
     id: "maintenance",
     name: "Monthly Maintenance",
     description: "Bug fixes & updates",
-    price: 8000,
-    category: "support",
+    price: 4000,
+    category: "support" ,
     is_active: true,
   },
 ];
